@@ -10,9 +10,9 @@ This was an incredibly enjoyable learning experience that helped me understand t
 
 ## Images
 **Sign In/Sign Up Screens**
-![SignInUpScreens](./signIn.png)
+![SignInUpScreens](./signIn.PNG)
 **Home Screns**
-![HomeScreens](./home.png)
+![HomeScreens](./home.PNG)
 **Upload Screens**
-![UploadScreens](./upload.png)
+![UploadScreens](./upload.PNG)
 
