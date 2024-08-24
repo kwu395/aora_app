@@ -10,9 +10,9 @@ This was an incredibly enjoyable learning experience that helped me understand t
 
 ## Images
 **Sign In/Sign Up Screens**
-<img src="./signIn.png" alt="SignInUpScreens" width="700" height="450"/>
-**Home Screens**
-<img src="./home.png" alt="HomeScreens" width="700" height="600"/>
+![SignInUpScreens](./signIn.png)
+**Home Screns**
+![HomeScreens](./home.png)
 **Upload Screens**
-<img src="./upload.png" alt="UploadScreens" width="700" height="500"/>
+![UploadScreens](./upload.png)
 
